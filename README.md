@@ -26,7 +26,7 @@ My-Note is a simple web application that allows users to create, edit, and delet
 4. **Responsive Design:** My-Note is optimized for both desktop and mobile devices, ensuring a smooth experience regardless of the screen size.
 
 ## Demo
-You can try out a live demo of My-Note (Available Soon)(#).
+You can try out a live demo of My-Note https://prayag493773.github.io/My-Note-Google-Keep-Clone/.
 
 ## Acknowledgements
 - My-Note is built using inspiration from Google Keep.
